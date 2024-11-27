@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_spanish:
 
  PAL_totalist_party: "PAWS (NS)"
  PAL_totalist_party_long: "Jam'iyyat al-'Ummal al-'Arabiyya al-Filastiniyya (al-niqabiat al-Watani)"
@@ -84,8 +84,8 @@
  PAL_suez_national_populist_DEF: "the Suez International Zone"
 
 ### Opinion Modifiers
- arabcon: "Attended the Third Arab Congress"
- arabconletiranin: "Let Iran attend the Third Arab Congress"
+ PAL_arabcon: "Attended the Third Arab Congress"
+ PAL_arabconletiranin: "Let Iran Attend the Third Arab Congress"
 
 ### Tooltips
  Arab_Congress: "The Third Arab Congress has convened"
