@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_spanish:
 
  portugal_focus: "Portugal Focus Tree"
 
@@ -42,7 +42,10 @@
 ### Tooltips ###
  POR_regulos: "We will raise three lightly equipped §YInfantry Divisions§! from our vassal chiefs in Mozambique."
  POR_cww: "We will mobilise our defences overseas, raising two well-equipped §YInfantry Divisions§! in Angola and Mozambique."
- POR_zimbabwe_entente: "§RShall we find ourselves in the same faction as §CSouth Africa§! or §CRhodesia§!, we won't be able to claim §YRhodesia§!.§!"
+ POR_zimbabwe_entente: "§RShould we find ourselves in the same faction as §CSouth Africa§! or §CRhodesia§!, we won't be able to claim §YRhodesia§!.§!"
+
+### Flags ###
+ MAF_NoAttack_Portugal: "Mittelafrika's aggression has been contained"
 
 ### Companies ###
  companhia_fabril: "Companhia União Fabril"
@@ -141,14 +144,6 @@
  german_aristocrat: "German Aristocrat"
  rightful_heir: "Rightful Heir"
  brazilian_german_heritage: "Brazilian and German Heritage"
-
-### Opinion Modifiers ###
- PORkeptangola: "Managed to Keep Angola"
- PORangolaenossa: "Angolan Issue"
- MAF_Portugal_btfo: "Border Issue Solved"
- MAF_NoAttack_Portugal: "Mittelafrika's aggression has been contained"
- PORreached38: "Has Reached 1938"
- POR_Jackals: "Portugal has seized Olivenza"
 
 ### Focuses ###
  POR_matters_of_the_realm: "Matters of the Realm"
