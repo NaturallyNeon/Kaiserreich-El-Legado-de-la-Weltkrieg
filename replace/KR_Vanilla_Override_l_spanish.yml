@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_spanish:
 
 # This is the overwrite file for vanilla localisation, anything here will replace the vanilla localisation of the same string
 # It is broken up into two parts
@@ -737,6 +737,7 @@
  armor: "Armour"
  convoy_defense_tree: "Convoy Defence Doctrine"
  motorized_rocket_unit: "Motorised Rocket Artillery"
+ mot_rockets: "$motorized_rocket_unit$"
  mot_rockets_research: "Motorised Rocket Artillery Research Speed"
 
 ### missing in vanilla, delete if added
